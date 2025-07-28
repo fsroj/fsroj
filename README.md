@@ -1,5 +1,5 @@
 Hi there! 
-I’m Rei, an aspiring systems engineering graduate based in Venezuela.
+I’m Rei, an aspiring systems engineering graduate based in Venezuela. 🇻🇪
 
 I'm a product designer who excels at turning design ideas into lightning-fast, accessible interfaces that feel effortless.
 
