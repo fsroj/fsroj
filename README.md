@@ -1,3 +1,4 @@
+```
 Hey there! ✦✦
 
 I’m Rei, an aspiring systems engineering graduate based in Venezuela. 🇻🇪
@@ -12,3 +13,4 @@ Outside of code and Figma, you’ll find me studying fashion to upcycle my own c
 Fun Facts:
 - I ADORE drinking bitter coffee and eating sour gummies. ☕︎
 - The Weeknd, Joji, The Neighbourhood and Daft Punk are my most inspirational artists. ♪
+```
